@@ -15,7 +15,7 @@ Write a function:
   
 that, given integers inner and outer (which denote, respectively, the inner and outer radius of the ring) and two arrays of N integers each: points_x and points_y, returns the number of points which lie strictly inside the ring. 
 
-##Examples 
+## Examples 
 
 1. Given inner = 1, outer = 3, points_x = [0, 1, 2, -2, 3] and points_y = [0, 1, 4, 1, 0], the function should return 2, because only points (-2, 1) and (1, 1) lie inside the ring. 
 
